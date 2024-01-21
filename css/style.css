@@ -98,9 +98,7 @@ h1.title {
 
 .restart-btn {
     display: flex;
-    margin: 5px 0 0 5px;
-    float: right;
-    padding: 0 8px;
+    margin: 5px;
     background: #8f7a66;
     color: white;
     height: 40px;
@@ -113,6 +111,7 @@ h1.title {
 
 h2.subtitle {
     font-size: 1em;
+    margin-top: 5px;
 }
 
 .game-container {
