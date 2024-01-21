@@ -97,6 +97,7 @@ h1.title {
 }
 
 .restart-btn {
+    display: flex;
     margin: 5px 0 0 5px;
     float: right;
     padding: 0 8px;
@@ -106,6 +107,8 @@ h1.title {
     line-height: 40px;
     border-radius: 3px;
     font-weight: bold;
+    align-items: center;
+    justify-content: center;
 }
 
 h2.subtitle {
